@@ -7,11 +7,9 @@ echo "<!DOCTYPE html>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
 </head>
-<body>
-    
-    
-</body>
+<body><script src="script.js"></script></body>
 </html>" > index.html
 touch style.css
 echo "*{
@@ -20,4 +18,3 @@ echo "*{
 }" > style.css
 touch script.js
 mkdir assets
-
