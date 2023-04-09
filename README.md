@@ -1,5 +1,5 @@
 # WebDev-Template-For-Beginners
-it is a shell script (.sh) that creates index.html,script.js,style.css and two folders assets and components
+it is a shell script (.sh) that creates index.html,script.js,style.css and a folder assets , it also connects the css and js files with html automatically
 
 To make this script globally in your system, so that you can run it anywhere
 1 . Rename this file from createweb.sh to createweb only
